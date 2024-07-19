@@ -1,8 +1,9 @@
 cd project
 
+git stash
 git pull
-git submodule init --recursive
-git submodule update --recursive
+git submodule update --progress --init --recursive
+git stash pop
 
 cd ..
 pause
