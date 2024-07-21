@@ -1,3 +1,9 @@
 [submodule "project"]
 	path = project
-	url = git@github.com:kun123456765/GameFramework-UE5.git
+	url = git@github.com:kun123456765/GameFramework-UE5-Leeway-Project.git
+[submodule "doc"]
+	path = doc
+	url = git@github.com:kun123456765/GameFramework-UE5-Leeway-Doc.git
+[submodule "cicd"]
+	path = cicd
+	url = git@github.com:kun123456765/GameFramework-UE5-Leeway-CICD.git
